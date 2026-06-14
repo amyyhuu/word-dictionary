@@ -1,0 +1,4 @@
+interface:
+  display_name: "Define Selected Word"
+  short_description: "Explain the selected word clearly"
+  default_prompt: "Use $define-selected-word to explain the selected word in context."
